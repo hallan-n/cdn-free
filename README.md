@@ -1,10 +1,14 @@
 # cdn-free
 
-### Motivo
-Criei esse repositório para usar como CDN de imagens.
+### 📌 Motivo
+Criei este repositório para hospedar imagens e usá-las como uma **CDN gratuita** para meus projetos pessoais.
 
-### Uso
-- URL Base: `https://raw.githubusercontent.com`
-- Repositório: `hallan-n/cdn-free/casamento`
-- Nome do arquivo: `arquivo.jpg`
-- Exemplo de URL Final: `https://raw.githubusercontent.com/hallan-n/cdn-free/casamento/arquivo.jpg`
+### 🚀 Como usar
+- **URL Base:** `https://raw.githubusercontent.com`
+- **Repositório:** `hallan-n/cdn-free`
+- **Caminho:** `/<pasta>/<arquivo>`
+- **Exemplo de URL final:**  
+  `https://raw.githubusercontent.com/hallan-n/cdn-free/main/casamento/arquivo.jpg`
+
+**Obs.:** Não esqueça de incluir `main` (ou o nome da branch) na URL.
+
